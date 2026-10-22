@@ -1,0 +1,56 @@
+[
+    {
+        "firstName": "Qing",
+        "lastName": "Wang",
+        "email": "qing.wang@example.com",
+        "dateOfBirth": "2003-05-14",
+        "preferences": {
+            "theme": "dark",
+            "language": "en",
+            "notifications": true,
+            "subscription": false
+        },
+        "address": {
+            "street": "55 College Street",
+            "city": "Palmerston North",
+            "state": "Manawatu",
+            "zipCode": "4410"
+        }
+    },
+    {
+        "firstName": "Hao",
+        "lastName": "Li",
+        "email": "hao.li@example.com",
+        "dateOfBirth": "2002-11-20",
+        "preferences": {
+            "theme": "light",
+            "language": "zh",
+            "notifications": false,
+            "subscription": true
+        },
+        "address": {
+            "street": "12 Lake Road",
+            "city": "Auckland",
+            "state": "Auckland",
+            "zipCode": "1010"
+        }
+    },
+    {
+        "firstName": "Yu",
+        "lastName": "Zhang",
+        "email": "yu.zhang@example.com",
+        "dateOfBirth": "2004-02-08",
+        "preferences": {
+            "theme": "dark",
+            "language": "en",
+            "notifications": true,
+            "subscription": true
+        },
+        "address": {
+            "street": "78 Park Avenue",
+            "city": "Wellington",
+            "state": "Wellington",
+            "zipCode": "6011"
+        }
+    }
+]
